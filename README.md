@@ -29,11 +29,11 @@ Memory Rush is a card-matching memory game. The objective is to match all the pa
 ## Instructions to Run the Game 🛠️
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/memory-rush.git
+    git clone https://github.com/elayben/memoryGame-React.git
     ```
 2. Navigate into the project folder:
     ```bash
-    cd memory-rush
+    cd memoryGame-React
     ```
 3. Install the dependencies:
     ```bash
@@ -46,4 +46,4 @@ Memory Rush is a card-matching memory game. The objective is to match all the pa
 5. Open [http://localhost:3000](http://localhost:3000) to view the game in your browser.
 
 ## Note 📜
-This project was made with a huge credit for "Ninga Net" that guided me on this project.
+Built while following the Net Ninja React tutorial series, which guided the project.
